@@ -12,3 +12,6 @@ Design a mobile stand using a 3D designing software -AUTOCAD-FUSION360.
 4. Name and phone model engraved in design
 5. NO Sharp Edges policy
 6. The phone basically has three parts, all which can be joined and fitted together to form the stand.
+
+There are 4 files in 4 formats - .stl, .png, .f3d, .dxf
+This is to enable 3D printing(.stl file), Laser cut printing(.f3d file). The .dxf file ensures portability and the .png file is the image of the final design. 
