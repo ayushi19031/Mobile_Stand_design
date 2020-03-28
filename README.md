@@ -1,5 +1,5 @@
 # Mobile_Stand_design
-Mobile_Stand_using_AUTOCAD360
+Portable Mobile_Stand_using_AUTOCAD360
 
 # INITIATIVE
 Design a mobile stand using a 3D designing software -AUTOCAD-FUSION360.
@@ -15,3 +15,4 @@ Design a mobile stand using a 3D designing software -AUTOCAD-FUSION360.
 
 There are 4 files in 4 formats - .stl, .png, .f3d, .dxf
 The .stl file enables 3D printing and the .f3d file enables laser cut printing. The .dxf file ensures portability and the .png file is the image of the final design. 
+
